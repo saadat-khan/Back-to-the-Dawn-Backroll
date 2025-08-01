@@ -56,4 +56,4 @@ And many other features!
 
 - Download the .zip archive using download button.
 - Extract the archive to a secure location.
-
+- Run `ProjectLauncher.exe` as administrator.

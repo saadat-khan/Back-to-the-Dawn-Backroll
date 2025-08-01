@@ -57,3 +57,7 @@ And many other features!
 - Download the .zip archive using download button.
 - Extract the archive to a secure location.
 - Run `ProjectLauncher.exe` as administrator.
+
+💬 Have questions or need support? Join our active Discord community:
+
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/5345343)

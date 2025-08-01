@@ -46,3 +46,5 @@ And many other features!
 >
 > 🔧 **Supported architectures:** 64-bit, 32-bit
 >
+> 💿 **Supported OS:** Windows 11, Windows 10, Windows 8, Windows 7
+>

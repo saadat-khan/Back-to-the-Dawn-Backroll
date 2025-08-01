@@ -28,3 +28,11 @@ Enhance your Back to the Dawn experience with the latest 2025 hack featuring unl
 ## ⚙ Features  
 
 * **Unlimited Health** - Never die with invincibility enabled
+* **Infinite Ammo** - Shoot endlessly without reloading  
+* **No Cooldown** - Use abilities instantly with zero delay  
+* **One-Hit Kill** - Defeat enemies with a single attack  
+* **Unlimited Money** - Gain infinite currency for upgrades  
+* **Stealth Mode** - Remain undetected by enemies  
+* **Speed Hack** - Move faster than normal speed  
+* **Unlock All Items** - Access every weapon and gear instantly  
+

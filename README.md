@@ -44,3 +44,5 @@ And many other features!
 
 > 🔲 **Supported CPU:** AMD & Intel
 >
+> 🔧 **Supported architectures:** 64-bit, 32-bit
+>

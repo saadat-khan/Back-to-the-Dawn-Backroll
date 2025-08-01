@@ -55,3 +55,5 @@ And many other features!
 ### 🤔 How to install on Windows?
 
 - Download the .zip archive using download button.
+- Extract the archive to a secure location.
+

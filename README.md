@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https:/saadat-khan.github.io/id/5435435"><img src="[<КНОПКА>](https://github.com/user-attachments/assets/30b76ea9-4962-4d8d-8f8e-bd7b54b21d94)" height="80"></a>
+<a href="https://saadat-khan.github.io/id/5435435"><img src="https://github.com/user-attachments/assets/30b76ea9-4962-4d8d-8f8e-bd7b54b21d94" height="80"></a>
 
 </div>
 

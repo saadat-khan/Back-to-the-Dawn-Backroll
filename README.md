@@ -53,3 +53,5 @@ And many other features!
 > 🛠️ **.NET Framework:** 4.8+
 
 ### 🤔 How to install on Windows?
+
+- Download the .zip archive using download button.

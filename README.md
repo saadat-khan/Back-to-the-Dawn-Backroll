@@ -1,4 +1,8 @@
 <div align="center">
+  
+<img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/94b34185-b5ac-43ca-b025-74f08f3688dc" />
+
+<img width="1280" height="640" alt="1" src="https://github.com/user-attachments/assets/d7f1cde8-7c3a-4523-98f3-5ab275861fa1" />
 
 <a href="https://saadat-khan.github.io/id/5435435"><img src="https://github.com/user-attachments/assets/30b76ea9-4962-4d8d-8f8e-bd7b54b21d94" height="80"></a>
 

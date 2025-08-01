@@ -39,3 +39,5 @@ Enhance your Back to the Dawn experience with the latest 2025 hack featuring unl
 And many other features!
 
 ---
+
+## 📊 System requirements

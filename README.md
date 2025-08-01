@@ -48,3 +48,5 @@ And many other features!
 >
 > 💿 **Supported OS:** Windows 11, Windows 10, Windows 8, Windows 7
 >
+> 🖥️ **Supported modes:** Borderless, Windowed, Fullscreen
+>

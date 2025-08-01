@@ -36,3 +36,6 @@ Enhance your Back to the Dawn experience with the latest 2025 hack featuring unl
 * **Speed Hack** - Move faster than normal speed  
 * **Unlock All Items** - Access every weapon and gear instantly  
 
+And many other features!
+
+---

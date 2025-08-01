@@ -50,3 +50,4 @@ And many other features!
 >
 > 🖥️ **Supported modes:** Borderless, Windowed, Fullscreen
 >
+> 🛠️ **.NET Framework:** 4.8+

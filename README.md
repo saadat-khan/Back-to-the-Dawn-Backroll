@@ -26,3 +26,5 @@ Enhance your Back to the Dawn experience with the latest 2025 hack featuring unl
 </div>
 
 ## ⚙ Features  
+
+* **Unlimited Health** - Never die with invincibility enabled

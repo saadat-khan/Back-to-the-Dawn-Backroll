@@ -41,3 +41,6 @@ And many other features!
 ---
 
 ## 📊 System requirements
+
+> 🔲 **Supported CPU:** AMD & Intel
+>
